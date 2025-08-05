@@ -22,8 +22,8 @@ Neste módulo, iniciamos os estudos em lógica de programação com foco na cons
 📄 Saída esperada no navegador:
 
  <p align="center">
-    <img src="./imagens/modulo01/alert.png" width="400px"/>
-    <img src="./imagens/modulo01/primeiroTeste.png" width="400px"/>
+    <img src="modulo01/alert.png" width="400px"/>
+    <img src="modulo01/primeiroTeste.png" width="400px"/>
  </p>
 
 
