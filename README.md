@@ -41,3 +41,26 @@ Neste módulo, iniciamos os estudos em lógica de programação com foco na cons
 
 🚀 Resultado:
 Ao abrir o arquivo no navegador, o usuário vê uma página com um título, um parágrafo com link, e um alerta é exibido automaticamente dizendo: "Isso sim é um programa!"
+
+---
+
+## 📘 Módulo 02 – Escrevendo no Documento com JavaScript
+Neste módulo, aprendemos a usar o método document.write() para escrever diretamente na página HTML usando JavaScript, além de realizar cálculos simples dentro das instruções.
+
+📄 Saída esperada no navegador:
+
+ <p align="center">
+  <img src="./imagens/modulo02/saida.png">
+ </p>
+
+ 🧠 Conceitos abordados:
+
+- Inserção de conteúdo dinâmico com document.write()
+
+- Concatenando texto com variáveis e expressões
+
+- Operações matemáticas básicas em tempo real
+
+- Uso do JavaScript para calcular o ano de nascimento
+
+---
